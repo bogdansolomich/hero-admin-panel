@@ -2,7 +2,7 @@
   "name": "hero_admin_panel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/hero_admin_panel/",
+  "homepage": "https://bogdansolomich.github.io/hero_admin_panel/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^6.4.5",
