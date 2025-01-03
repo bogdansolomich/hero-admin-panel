@@ -1,8 +1,8 @@
 {
-  "name": "hero_admin_panel",
+  "name": "hero-admin-panel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bogdansolomich.github.io/hero_admin_panel/",
+  "homepage": "https://bogdansolomich.github.io/hero-admin-panel/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^6.4.5",
