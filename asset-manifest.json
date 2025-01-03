@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hero-admin-panel/static/css/main.7acaea2f.css",
+    "main.js": "/hero-admin-panel/static/js/main.07d3183d.js",
+    "index.html": "/hero-admin-panel/index.html",
+    "main.7acaea2f.css.map": "/hero-admin-panel/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/hero-admin-panel/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
