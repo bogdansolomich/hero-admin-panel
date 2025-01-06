@@ -1,18 +1,6 @@
 {
   "heroes": [
     {
-      "id": "1",
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
-      "id": "3",
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
-      "element": "water"
-    },
-    {
       "id": "050b53a6-adad-4953-9dca-3b15869e0142",
       "name": "Неизвестный герой",
       "description": "Скрывающийся в тени",
@@ -23,6 +11,12 @@
       "name": "Герой земли",
       "description": "тестовое описание",
       "element": "earth"
+    },
+    {
+      "id": "8e1ee190-c8cb-4999-bfc9-0e5d318b86a0",
+      "name": "Luxoft",
+      "description": "hgjhg",
+      "element": "water"
     }
   ],
   "filters": [
