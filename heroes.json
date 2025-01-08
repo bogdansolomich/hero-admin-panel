@@ -13,16 +13,16 @@
       "element": "earth"
     },
     {
-      "id": "504ace0d-e10f-4e84-8395-8f3a9d88514a",
-      "name": "Первый герой",
-      "description": "первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
       "id": "a3d44591-210b-412d-82e1-a138e099a732",
       "name": "Морской герой",
       "description": "Как еквамен, но не из DC",
       "element": "water"
+    },
+    {
+      "id": "5f6070d3-f7b7-481c-9bf5-00c17e3cb68a",
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге",
+      "element": "fire"
     }
   ],
   "filters": [
