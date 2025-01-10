@@ -23,6 +23,12 @@
       "name": "Первый герой",
       "description": "Первый герой в рейтинге",
       "element": "fire"
+    },
+    {
+      "id": "a711be9f-be6d-4980-a92f-204ff0541cb7",
+      "name": "Luxoft",
+      "description": "hgjhjg",
+      "element": "fire"
     }
   ],
   "filters": [
