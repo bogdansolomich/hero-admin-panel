@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hero-admin-panel/static/css/main.ebfe576b.css",
-    "main.js": "/hero-admin-panel/static/js/main.0338a909.js",
+    "main.js": "/hero-admin-panel/static/js/main.8a1b0318.js",
     "static/media/hero_bg.jpg": "/hero-admin-panel/static/media/hero_bg.0540b794b0424b67d780.jpg",
     "index.html": "/hero-admin-panel/index.html",
     "main.ebfe576b.css.map": "/hero-admin-panel/static/css/main.ebfe576b.css.map",
-    "main.0338a909.js.map": "/hero-admin-panel/static/js/main.0338a909.js.map"
+    "main.8a1b0318.js.map": "/hero-admin-panel/static/js/main.8a1b0318.js.map"
   },
   "entrypoints": [
     "static/css/main.ebfe576b.css",
-    "static/js/main.0338a909.js"
+    "static/js/main.8a1b0318.js"
   ]
 }
